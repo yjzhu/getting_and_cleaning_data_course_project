@@ -3,9 +3,9 @@ getting_and_cleaning_data_course_project
 
 ### Description on run_analysis.R
 
-1. Make sure the data set and run_analysis.R are in the same directory.
+####1. Make sure the data set and run_analysis.R are in the same directory.
 
-2. Inputs for run_analysis.R 
+####2. Inputs for run_analysis.R 
 
 - X_train.txt
 - X_test.txt
@@ -16,15 +16,15 @@ getting_and_cleaning_data_course_project
 - subject_train.txt
 - subject_test.txt
 
-3. Outputs for run_analysis.R
+####3. Outputs for run_analysis.R
 
 - tidy.txt
 
-4. Command used for running run_analysis.R
+####4. Command used for running run_analysis.R
 
 - source("run_analysis.R")
 
-5. Detailed dscription on run_analysis.R
+####5. Detailed dscription on run_analysis.R
 
 - Read X_train.txt and X_test.txt, merge them together to form a data set called new.
 - Read features.txt.
