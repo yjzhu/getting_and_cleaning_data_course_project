@@ -5,11 +5,11 @@
 - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 ### Transformations or work that performed to clean up the data
-####-Merged the training and the test sets to create one data set.
-####-Extracted only the measurements on the mean and standard deviation for each measurement. 
-####-Usesed descriptive activity names to name the activities in the data set
-####-Appropriately labeled the data set with descriptive variable names. 
-####-Created a second, independent tidy data set with the average of each variable for each activity and each subject. 
+#####-Merged the training and the test sets to create one data set.
+#####-Extracted only the measurements on the mean and standard deviation for each measurement. 
+#####-Usesed descriptive activity names to name the activities in the data set
+#####-Appropriately labeled the data set with descriptive variable names. 
+#####-Created a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
 ### Variables
